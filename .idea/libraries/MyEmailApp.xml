@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyEmailApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MyEmailApp/MyEmailApp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
